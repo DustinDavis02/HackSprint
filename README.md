@@ -12,5 +12,7 @@ In addition to regular levels, there are also bonus levels that can be unlocked 
 
 Controls
 Arrow keys or WD keys, spacebar: move left/right and jump
+
+
 Credits
 Sky Runner was developed by Michael Blevins and Dustin Davis.
